@@ -3,6 +3,7 @@ Hemos identificado en el conteo de vehículos de forma manual 3 pasos principale
 1. Planeación 
 1. Toma de información
 1. Análisis
+1. Resultados
 
 ## Aspectos por mejorar del método manual
 1. Complejidad de la logística: El método actual de conteo vehicular utiliza varias personas que son difíciles de gestionar, desde la planeación, lo administrativo, legal hasta el pago.
